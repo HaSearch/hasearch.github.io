@@ -1,4 +1,4 @@
 # Hebrew Anime Search
-Nice web wrapper for my Custom-Search-Engine (now "Programmable-Search-Engine") for hebrew anime.  
+Web wrapper for my Hebrew Anime Search Engine ("Custom Search Engine / "Programmable-Search-Engine" by Google).  
 </br>
 [**-TO THE SITE-**](https://hasearch.github.io)
